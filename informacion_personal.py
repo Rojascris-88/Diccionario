@@ -8,7 +8,7 @@ informacion_personal["ciudad"] = input("Ingrese la ciudad: ")
 informacion_personal["profesion"] = input("Ingrese la profesión: ")
 
 # Sirve para modificar la ciudad
-nueva_ciudad = input("Ingrese una nueva ciudad para actualizar: ")
+nueva_ciudad = input("Ingrese una nueva ciudad para actualizarse: ")
 informacion_personal["ciudad"] = nueva_ciudad
 
 # Verificar si el telefono existe, caso contrario se agrega
